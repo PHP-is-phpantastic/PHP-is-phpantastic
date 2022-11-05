@@ -24,7 +24,7 @@ I am a self-taught full-stack web developer and a freelancer.  I love how collab
 ✔️ Customize Plugins and Theme  			✔️Security</p>
 
 <header>
-  <h2>Cities</h2>
+  <h2>How can I help you?</h2>
 </header>
 
 <section>
