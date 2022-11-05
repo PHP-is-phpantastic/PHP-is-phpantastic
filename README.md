@@ -49,9 +49,9 @@ I am a self-taught full-stack web developer and a freelancer.  I love how collab
     <p>
   
   • Optimizing Page Response Time
-• Optimizing the Following Google PageSpeed Insights times
+• Optimizing the Following Google PageSpeed Insights times <br>
 • Optimizing Uncompressed Images
-• Eliminating render-blocking JavaScript and CSS
+• Eliminating render-blocking JavaScript and CSS  <br>
 • Used W3 Total Cache, Smush, WP-Optimize, Lazy Load.
    </p>
    
@@ -62,7 +62,7 @@ I am a self-taught full-stack web developer and a freelancer.  I love how collab
     <p>
   
 • I can Configure and Troubleshoot Hosting Problems
-• I can Configure Window Server to host WordPress
+• I can Configure Window Server to host WordPress   <br>
 • Worked on Many Popular Hosting sites
 ( Eg. Cloudways, Hostinger, SiteGround Etc. )
    </p>
@@ -72,9 +72,6 @@ I am a self-taught full-stack web developer and a freelancer.  I love how collab
  
 </section>
 
-<footer>
-  <p>Footer</p>
-</footer>
 
 </body>
 </html>
