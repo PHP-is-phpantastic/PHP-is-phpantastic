@@ -29,7 +29,7 @@ I ocassionally blog about WordPress.
 ![icons8-cpanel-40](https://user-images.githubusercontent.com/79042824/202209099-b54a2b7f-fdc3-48e4-9913-d6e786e3b985.png)
 
 
-Visitor count
+
 
  
 <!DOCTYPE html>
