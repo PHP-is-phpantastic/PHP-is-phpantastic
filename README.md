@@ -6,11 +6,21 @@
 
 
 ## 🚀 About Me
-I am a self-taught full-stack web developer 
-and a freelancer. I ❤️ how collaboration and 
-knowledge sharing happened through open source.
+👋 Hi there! I'm a passionate self-taught Full-Stack Web Developer and Freelancer 💻. I'm a strong advocate of open-source culture, and I absolutely love the collaboration and knowledge sharing that takes place within the open-source community 🌐.
 
-I ocassionally blog about WordPress. 
+📚 I have a special place in my heart for WordPress, and I enjoy sharing my expertise through my personal blog where I write about the latest trends, best practices, and tips and tricks in the WordPress ecosystem.
+
+🔭 I'm always looking for new challenges and opportunities to grow, so feel free to reach out if you'd like to collaborate on an exciting project!
+
+🌟 Fun fact: I'm a lifelong learner, always exploring new technologies and improving my skills. Let's connect and learn together! 💡
+
+📫 How to reach me:
+
+- 🌐 GitHub: [PHP-is-phpantastic]
+- ✉️ Email: [myva.faisal@gmail.com]
+
+
+
 
 
 ## Technologies I enjoy working with :-
@@ -43,13 +53,24 @@ I ocassionally blog about WordPress.
 <body>
 
 ## 🛠 Skills
-<p>✔️ PHP		✔️ WordPress 	✔️ HTML 	✔️ JavaScript 
-✔️ Database 	✔️ SQL	 		✔️ API	 	✔️PSD
-  </p>
-<p>✔️ Woo Commerce 			✔️AJAX		 ✔️Web Hosting 
-✔️ Customize Plugins and Theme  			✔️Security</p>
 
-  
+| **🌐 Web Development**        | **🔒 Security & Optimization** | **🛒 E-commerce & Membership** |
+| ----------------------------- | ------------------------------ | ------------------------------ |
+| 🐘 PHP                       | 🚀 WP Rocket                   | 🛍️ WooCommerce                |
+| 🏷️ HTML                      | ✈️ Jetpack                     | 📚 MemberPress                 |
+| 🎨 CSS                       | 🛡️ Wordfence Security         | 🔐 Restrict Content Pro       |
+| 💻 JavaScript                | 🌬️ W3 Total Cache             | 🛡️ Paid Memberships Pro       |
+| 📜 jQuery                    | 🔐 iThemes Security            | 🎓 LearnDash                  |
+| 📊 SQL                       | 🛡️ Sucuri Security            | 🧰 Easy Digital Downloads     |
+| 📄 WordPress Core            | 🌬️ WP Super Cache             | 🗳️ Gravity Forms             |
+| 🧰 Plugin Development        | 🔍 Yoast SEO                   | 📝 Ninja Forms               |
+| 🎨 Theme Development         | 🔍 All In One SEO Pack         | 📈 WPForms                   |
+| ⚙️ Customizer API            |                                | 🌐 WPML (WordPress Multilingual)|
+| 🎨 Elementor & Elementor Pro |                                | 🌍 Polylang                  |
+| 🏗️ Divi Builder              |                                | 🔄 BuddyPress                |
+| 🌐 WP REST API               |                                | 🌟 s2Member                  |
+
+
  
   ##  💬 Ask me about...
     💡 WordPress Themes and Plugins customization.
